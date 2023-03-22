@@ -1,11 +1,11 @@
-About augment-nd
-================
+About augment-nd-feedstock
+==========================
+
+Feedstock license: [BSD-3-Clause](https://github.com/conda-forge/augment-nd-feedstock/blob/main/LICENSE.txt)
 
 Home: https://github.com/funkey/augment
 
 Package license: MIT
-
-Feedstock license: [BSD-3-Clause](https://github.com/conda-forge/augment-nd-feedstock/blob/main/LICENSE.txt)
 
 Summary: Simple elastic augmentation for ND arrays.
 
